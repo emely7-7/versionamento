@@ -1,2 +1,1 @@
-print("primeira versão")
-#Entendo versionamento no git
+print("primeira versão")#testando do teste, mais testado
