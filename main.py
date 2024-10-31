@@ -1,1 +1,2 @@
-print("primeira versão")#testando do teste, mais testado
+print("primeira versão")
+#eu não aguento mais!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
