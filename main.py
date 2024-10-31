@@ -1,2 +1,1 @@
-print("primeira versão")
-#Entendo versionamento no git
+print("versão inicial") #alteração do comentario
